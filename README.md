@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Mendes-16 😁
+## Bem-vindo(a) ao perfil do Mendes-16 😁🤖
 
  <div>
    <a href="https://github.com/Mendes-16">
@@ -15,7 +15,7 @@
  
  <br>
  
-  ### Pra entrar em contato links a baixo !
+  ### Pra entrar em contato links a baixo ! ⬇️
  
 <div> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
